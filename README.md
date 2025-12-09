@@ -11,7 +11,7 @@ In this stage, I was able to:
 - Formulate my scientific question about how property features, host attributes, and location characteristics relate to Airbnb listing prices.
 - Clearly define the response and explanatory variables for later modelling.
 - Perform exploratory data analysis and visualization, including a multi-variable plot to study early trends, potential associations, and patterns relevant to model building.
-- 
+
 ## Stage 2 (Individual)
 In this stage, I was able to: 
 - Revisit and refine the variable set from Stage 1, selecting predictors that were relevant, interpretable, and not redundant.
