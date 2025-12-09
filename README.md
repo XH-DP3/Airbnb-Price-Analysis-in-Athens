@@ -1,4 +1,4 @@
-# STAT 301 Project: An Inferential Analysis of Factors Influencing Airbnb Prices in Athens
+An Inferential Analysis of Factors Influencing Airbnb Prices in Athens
 This project was developed as part of STAT 301: Statistical Modelling for Data Science at UBC, consisted of two individually completed stages followed by a collaborative final stage.
 
 It explores the factors influencing Airbnb prices in Athens, Greece, through a complete data science workflow, from acquiring data online to presenting conclusions in a reproducible Jupyter Notebook report.
